@@ -11,3 +11,6 @@
 /samples/MvcApp/.vs
 /samples/MvcApp/MvcApp/bin/Debug/netcoreapp2.0
 /samples/MvcApp/MvcApp/obj
+/samples/MvcWebApp/.vs
+/samples/MvcWebApp/MvcWebApp/bin/Debug/netcoreapp2.0
+/samples/MvcWebApp/MvcWebApp/obj
